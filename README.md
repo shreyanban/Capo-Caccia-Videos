@@ -1,2 +1,3 @@
 # Capo-Caccia-Videos
 This repository contains the videos of cartpole and multi-linked pendulum on a cart balancing videos using spiking neurons from the work done at Capo Caccia Workshops 2023, and beyond. Frame axes labels in the videos and gifs are for reference only, and do not correspond to the physical measurements reported in the paper.
+There are some data output from the simulations also included in this folder. Positive and negative perturbation files correspond to the data collected for the matlab cartpole control using the Lu.i hardware. Control values files contains the control output from the nengo ensemble for the multi-linked pendulum on a cart. Table of metrics file shows the transient and steady state metrics for the nengo based control analysis.
